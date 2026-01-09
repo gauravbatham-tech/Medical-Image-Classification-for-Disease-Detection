@@ -75,4 +75,4 @@ The model performed well and showed strong capability in differentiating Normal 
 This project demonstrates how transfer learning with ResNet18 can be applied to medical imaging for pneumonia detection.
 The workflow includes complete data handling, augmentation, model training, evaluation, visualization, and inference, making it suitable for practical use and further research.
 
-It also shows the importance of documentation, model interpretability, and testing, making it a solid deep learning project for internship and portfolio purposes.
+
